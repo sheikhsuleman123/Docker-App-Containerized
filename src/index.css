@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+#root{
+  background-color: green;
+}
+
+ input{
+  height: 20px;
+  width: 300px;
+}
+
+#heading{
+  background-color: red;
+}
+button{
+  height: 40px;
+  width: 80px;
+}
+#suleman{
+  float: left;
+  margin-left: 30px;
+}
+
+#sameer{
+  float:right;
+}
+p{
+  background-color: aquamarine;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  border: 1px solid black;
+}
